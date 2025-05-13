@@ -7,7 +7,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist --add"
   },
   "dependencies": {
     "preline": "^2.0.0",
@@ -23,5 +23,5 @@
     "vite": "^6.3.5",
     "vite-plugin-static-copy": "^3.0.0"
   },
-  "homepage": "https://jayjaycrypt0.github.io/evaluate-fi"
+  "homepage": "https://evaluate.fi"
 }
