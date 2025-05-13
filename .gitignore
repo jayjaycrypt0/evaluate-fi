@@ -1,0 +1,6 @@
+node_modules/
+.cache/
+<<<<<<< HEAD
+=======
+dist/
+>>>>>>> 601177b979e8818b5e54ee1f57d9a3f79e645a69
