@@ -6,7 +6,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "predeploy": "npm run build",
+    "predeploy": "npm run build && echo evaluate.fi > dist/CNAME",
     "deploy": "gh-pages -d dist --add"
   },
   "dependencies": {
